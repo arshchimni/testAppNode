@@ -1,0 +1,20 @@
+{
+  "name": "git_learning",
+  "version": "1.0.0",
+  "description": "this is the feature branch",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://arshchimni@bitbucket.org/arshchimni/git_learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/arshchimni/git_learning#readme",
+  "dependencies": {
+    "hapi": "^16.6.2"
+  }
+}
